@@ -10,4 +10,7 @@
 
 @interface DAPFirstViewController : UIViewController
 
+-(IBAction)clickTheButton:(id)sender;
+
+
 @end
